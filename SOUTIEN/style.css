@@ -1,0 +1,22 @@
+div{
+    background-color: teal;
+    width: 100px;
+    height: 100px;
+    margin: 5px;
+    
+
+}
+
+.trois{
+    margin-left: 150px;
+}
+
+.quatre{
+    background-color: rgb(252, 13, 112);
+    color: white;
+
+}
+
+p{
+    color: white;
+}
